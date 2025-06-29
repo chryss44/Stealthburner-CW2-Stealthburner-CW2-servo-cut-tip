@@ -28,10 +28,15 @@ N'ajoutez pas de ressort au bras de coupe ; la coupe revient à sa position ini
 Préparation avant l'installation :
 
 Plusieurs écrous thermofusibles M3 3x4x5
+
 Une vis M3x12
+
 Servo ES08MD x 1 (MG90S)
+
 Fer à souder électrique
+
 Jeu de vis CW2
+
 Plus de 100 mm réservés à la ligne servo
 
 Retirez le bloc de coupe avant la mise au point afin d'éviter d'endommager les composants.
